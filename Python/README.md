@@ -73,7 +73,7 @@
 ## Competitive Programming
 
 * [Rabin Karp Algorithm](cp/Rabin_Karp.py)
-*[Prime factorization using sieve](cp/Prime_factorisation_using_sieve.py)
+* [Prime factorization using sieve](cp/Prime_factorisation_using_sieve.py)
 
 ## Dynamic Programming
 _add list here_
